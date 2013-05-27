@@ -13,6 +13,7 @@ window.addEventListener('load', function() {
             taskElement.appendChild(taskTitleText);
             //ins html-Dokument einfügen
             taskListElement.appendChild(taskElement);
+            //Deatilliste implementieren
         });
     });
 });
